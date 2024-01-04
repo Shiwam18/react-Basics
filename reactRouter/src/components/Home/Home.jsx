@@ -13,19 +13,15 @@ export default function Home() {
 
                         <Link
                             className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
-                            to="/"
+                            to="https://www.linkedin.com/in/shiwam-yadav-532a04225/overlay/1703610842221/single-media-viewer/?profileId=ACoAADiRZfYB_66jGFAknAFB5ZsPg5_vvKArp-0"
                         >
-                            <svg
-                                fill="white"
-                                width="24"
-                                height="24"
-                                xmlns="http://www.w3.org/2000/svg"
-                                fillRule="evenodd"
-                                clipRule="evenodd"
-                            >
-                                <path d="M1.571 23.664l10.531-10.501 3.712 3.701-12.519 6.941c-.476.264-1.059.26-1.532-.011l-.192-.13zm9.469-11.56l-10.04 10.011v-20.022l10.04 10.011zm6.274-4.137l4.905 2.719c.482.268.781.77.781 1.314s-.299 1.046-.781 1.314l-5.039 2.793-4.015-4.003 4.149-4.137zm-15.854-7.534c.09-.087.191-.163.303-.227.473-.271 1.056-.275 1.532-.011l12.653 7.015-3.846 3.835-10.642-10.612z" />
-                            </svg>
-                            &nbsp; Hire me now!
+                            &nbsp; View resume
+                        </Link>
+                        <Link
+                            className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75 ml-2"
+                            to="https://www.leetcode.com/Shiwam10"
+                        >
+                            &nbsp; Leetcode
                         </Link>
                     </div>
                 </div>
@@ -37,7 +33,7 @@ export default function Home() {
 
             <div className=" grid place-items-center sm:mt-20">
                 <img className="sm:w-96 w-48" src="https://png.pngtree.com/png-vector/20200131/ourmid/pngtree-bowing-achievement-award-vector-sport-png-image_2136866.jpg" alt="image2" />
-                <p className=" text-left text-sm font-light sm:text-xl py-10">I am final year student with knowledge of react and and client side routing. I have secured 3771 rank in leetcode weekly contest 352.</p>
+                <p className=" text-left text-sm font-light sm:text-xl py-10">I am final year student and i am passoinate about development. I have secured 3771 rank in leetcode weekly contest 352.</p>
             </div>
 
             

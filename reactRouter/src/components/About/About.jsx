@@ -16,14 +16,14 @@ export default function About() {
                             React development is carried out by passionate developers
                         </h2>
                         <p className="mt-6 text-gray-600">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                            accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                            aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
+                        React JS Developer with a strong understanding of the basics of web technologies such as HTML, CSS, and Tailwind.
+Experience with React JS and working with Vite architecture.
+Experience working with 8+ basic projects using complex Object-Oriented concepts in improving the performance of websites.
+Experience in using React JS components, Forms, Events, Router, and learning continously to know more and build more.
+Good Experience in React.js for creating interactive UI's using One-way data flow, Virtual DOM, JSX, custom hooks concepts.
                         </p>
-                        <p className="mt-4 text-gray-600">
-                            Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                            Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
-                        </p>
+                        <p className='mt-6 text-gray-600'>Also successfully completed 400+ question on leetcode and have a good understang of data structure and algorithms concepts.</p>
+                    
                     </div>
                 </div>
             </div>

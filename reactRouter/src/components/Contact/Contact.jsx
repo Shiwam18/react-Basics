@@ -10,9 +10,7 @@ export default function Contact() {
                             <h1 className="text-3xl sm:text-4xl text-gray-800 font-extrabold tracking-tight">
                                 Get in touch: 
                             </h1>
-                            <p className="text-normal text-lg sm:text-xl font-medium text-gray-600 mt-2">
-                                Fill in the form to start a conversation
-                            </p>
+                            
 
                             <div className="flex items-center mt-8 text-gray-600">
                                 <svg
@@ -38,7 +36,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                    Sp Mukherjee Road, Titagarh, Kolkata
                                 </div>
                             </div>
 
@@ -60,11 +58,11 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +91 7905653222
                                 </div>
                             </div>
 
-                            <div className="flex items-center mt-2 text-gray-600">
+                            <div className="flex items-center mt-8 text-gray-600">
                                 <svg
                                     fill="none"
                                     stroke="currentColor"
@@ -81,8 +79,8 @@ export default function Contact() {
                                         d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                                     />
                                 </svg>
-                                <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                <div className="ml-4 text-left text-sm tracking-wide font-semibold w-40">
+                                    shiwamyadav264@gmail.com
                                 </div>
                             </div>
                         </div>
